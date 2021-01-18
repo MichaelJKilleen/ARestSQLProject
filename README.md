@@ -9,3 +9,6 @@ https://www.codejava.net/servers/tomcat/how-to-embed-tomcat-server-into-java-web
 https://howtodoinjava.com/resteasy/resteasy-tomcat-hello-world-application/
 
 mvn clean tomcat7:run-war
+
+For running Tomcat 9 embedded.
+mvn org.codehaus.cargo:cargo-maven2-plugin:run
