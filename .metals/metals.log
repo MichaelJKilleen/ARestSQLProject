@@ -1,0 +1,269 @@
+2021.01.18 08:46:35 INFO  Started: Metals version 0.9.8 in workspace 'C:\Users\Micha\Development\ARestSQLProject' for client vscode.
+2021.01.18 08:46:39 INFO  time: initialize in 4.32s
+2021.01.18 08:46:58 WARN  Build server is not auto-connectable.
+2021.01.18 08:55:06 INFO  running 'C:\Program Files\RedHat\java-11-openjdk-11.0.8-2\bin\java -Dfile.encoding=UTF-8 -Dmaven.multiModuleProjectDirectory=C:\Users\Micha\Development\ARestSQLProject -Dmaven.home=C:\Users\Micha\AppData\Local\Temp\metals6776876932087641299 -jar C:\Users\Micha\AppData\Local\Temp\metals6776876932087641299\maven-wrapper.jar ch.epfl.scala:maven-bloop_2.12:1.4.6-15-209c2a5c:bloopInstall -DdownloadSources=true'
+2021.01.18 08:55:14 INFO  [INFO] Scanning for projects...
+2021.01.18 08:55:14 INFO  [WARNING] 
+2021.01.18 08:55:14 INFO  [WARNING] Some problems were encountered while building the effective model for com.bottomfeedersoftware:ARestSQLProject:war:1.0-SNAPSHOT
+2021.01.18 08:55:14 INFO  [WARNING] 'dependencies.dependency.(groupId:artifactId:type:classifier)' must be unique: org.jboss.resteasy:resteasy-guice:jar -> duplicate declaration of version ${resteasy.version} @ line 54, column 17
+2021.01.18 08:55:14 INFO  [WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-war-plugin is missing. @ line 123, column 15
+2021.01.18 08:55:14 INFO  [WARNING] 
+2021.01.18 08:55:14 INFO  [WARNING] It is highly recommended to fix these problems because they threaten the stability of your build.
+2021.01.18 08:55:14 INFO  [WARNING] 
+2021.01.18 08:55:14 INFO  [WARNING] For this reason, future Maven versions might no longer support building such malformed projects.
+2021.01.18 08:55:14 INFO  [WARNING] 
+2021.01.18 08:55:14 INFO  [INFO] 
+2021.01.18 08:55:14 INFO  [INFO] --------------< com.bottomfeedersoftware:ARestSQLProject >--------------
+2021.01.18 08:55:14 INFO  [INFO] Building ARestSQLProject Maven Webapp 1.0-SNAPSHOT
+2021.01.18 08:55:14 INFO  [INFO] --------------------------------[ war ]---------------------------------
+2021.01.18 08:55:19 INFO  [INFO] 
+2021.01.18 08:55:19 INFO  [INFO] --- maven-bloop_2.12:1.4.6-15-209c2a5c:bloopInstall (default-cli) @ ARestSQLProject ---
+2021.01.18 08:55:26 INFO  [INFO] Using empty launcher: no run setup for ARestSQLProject Maven Webapp.
+2021.01.18 08:55:28 INFO  [INFO] Scanning for projects...
+2021.01.18 08:55:28 INFO  [WARNING] 
+2021.01.18 08:55:28 INFO  [WARNING] Some problems were encountered while building the effective model for com.bottomfeedersoftware:ARestSQLProject:war:1.0-SNAPSHOT
+2021.01.18 08:55:28 INFO  [WARNING] 'dependencies.dependency.(groupId:artifactId:type:classifier)' must be unique: org.jboss.resteasy:resteasy-guice:jar -> duplicate declaration of version ${resteasy.version} @ line 54, column 17
+2021.01.18 08:55:28 INFO  [WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-war-plugin is missing. @ line 123, column 15
+2021.01.18 08:55:28 INFO  [WARNING] 
+2021.01.18 08:55:28 INFO  [WARNING] It is highly recommended to fix these problems because they threaten the stability of your build.
+2021.01.18 08:55:28 INFO  [WARNING] 
+2021.01.18 08:55:28 INFO  [WARNING] For this reason, future Maven versions might no longer support building such malformed projects.
+2021.01.18 08:55:28 INFO  [WARNING] 
+2021.01.18 08:55:30 INFO  [INFO] 
+2021.01.18 08:55:30 INFO  [INFO] --------------< com.bottomfeedersoftware:ARestSQLProject >--------------
+2021.01.18 08:55:30 INFO  [INFO] Building ARestSQLProject Maven Webapp 1.0-SNAPSHOT
+2021.01.18 08:55:30 INFO  [INFO] --------------------------------[ war ]---------------------------------
+2021.01.18 08:55:30 INFO  [INFO] 
+2021.01.18 08:55:30 INFO  [INFO] --- maven-dependency-plugin:2.8:sources (default-cli) @ ARestSQLProject ---
+2021.01.18 08:55:39 INFO  [INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/jboss/spec/javax/annotation/jboss-annotations-api_1.2_spec/1.0.0.Final/jboss-annotations-api_1.2_spec-1.0.0.Final-sources.jar
+2021.01.18 08:55:41 INFO  [INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/jboss/spec/javax/annotation/jboss-annotations-api_1.2_spec/1.0.0.Final/jboss-annotations-api_1.2_spec-1.0.0.Final-sources.jar (19 kB at 10 kB/s)
+2021.01.18 08:55:41 INFO  [INFO] Downloading from central: https://repo.maven.apache.org/maven2/com/sun/xml/fastinfoset/FastInfoset/1.2.12/FastInfoset-1.2.12-sources.jar
+2021.01.18 08:55:41 INFO  [INFO] Downloaded from central: https://repo.maven.apache.org/maven2/com/sun/xml/fastinfoset/FastInfoset/1.2.12/FastInfoset-1.2.12-sources.jar (256 kB at 1.5 MB/s)
+2021.01.18 08:55:41 INFO  [INFO] Downloading from central: https://repo.maven.apache.org/maven2/javax/xml/bind/jsr173_api/1.0/jsr173_api-1.0-sources.jar
+2021.01.18 08:55:41 INFO  [INFO] Downloading from central: https://repo.maven.apache.org/maven2/net/jcip/jcip-annotations/1.0/jcip-annotations-1.0-sources.jar
+2021.01.18 08:55:41 INFO  [INFO] Downloaded from central: https://repo.maven.apache.org/maven2/net/jcip/jcip-annotations/1.0/jcip-annotations-1.0-sources.jar (0 B at 0 B/s)
+2021.01.18 08:55:41 INFO  [INFO] Downloading from central: https://repo.maven.apache.org/maven2/com/google/code/findbugs/annotations/2.0.1/annotations-2.0.1-sources.jar
+2021.01.18 08:55:41 INFO  [INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/jboss/resteasy/resteasy-jaxrs-services/3.1.4.Final/resteasy-jaxrs-services-3.1.4.Final-sources.jar
+2021.01.18 08:55:41 INFO  [INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/jboss/resteasy/resteasy-jaxrs-services/3.1.4.Final/resteasy-jaxrs-services-3.1.4.Final-sources.jar (2.6 kB at 35 kB/s)
+2021.01.18 08:55:41 INFO  [INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.4/httpcore-4.4.4-sources.jar
+2021.01.18 08:55:41 INFO  [INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.4/httpcore-4.4.4-sources.jar (405 kB at 2.6 MB/s)
+2021.01.18 08:55:41 INFO  [INFO] Downloading from central: https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-impl/2.2.7/jaxb-impl-2.2.7-sources.jar
+2021.01.18 08:55:41 INFO  [INFO] Downloaded from central: https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-impl/2.2.7/jaxb-impl-2.2.7-sources.jar (1.1 MB at 3.5 MB/s)
+2021.01.18 08:55:41 INFO  [INFO] Downloading from central: https://repo.maven.apache.org/maven2/commons-io/commons-io/2.5/commons-io-2.5-sources.jar
+2021.01.18 08:55:42 INFO  [INFO] Downloaded from central: https://repo.maven.apache.org/maven2/commons-io/commons-io/2.5/commons-io-2.5-sources.jar (276 kB at 2.7 MB/s)
+2021.01.18 08:55:42 INFO  [INFO] Downloading from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.8.9/jackson-annotations-2.8.9-sources.jar
+2021.01.18 08:55:42 INFO  [INFO] Downloaded from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.8.9/jackson-annotations-2.8.9-sources.jar (58 kB at 1.3 MB/s)
+2021.01.18 08:55:42 INFO  [INFO] Downloading from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-base/2.8.9/jackson-jaxrs-base-2.8.9-sources.jar
+2021.01.18 08:55:42 INFO  [INFO] Downloaded from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-base/2.8.9/jackson-jaxrs-base-2.8.9-sources.jar (27 kB at 106 kB/s)
+2021.01.18 08:55:42 INFO  [INFO] Downloading from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.8.9/jackson-module-jaxb-annotations-2.8.9-sources.jar
+2021.01.18 08:55:42 INFO  [INFO] Downloaded from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.8.9/jackson-module-jaxb-annotations-2.8.9-sources.jar (25 kB at 94 kB/s)
+2021.01.18 08:55:42 INFO  [INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/jboss/resteasy/resteasy-client/3.1.4.Final/resteasy-client-3.1.4.Final-sources.jar
+2021.01.18 08:55:42 INFO  [INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/jboss/resteasy/resteasy-client/3.1.4.Final/resteasy-client-3.1.4.Final-sources.jar (90 kB at 1.0 MB/s)
+2021.01.18 08:55:42 INFO  [INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/2.0.0/checker-qual-2.0.0-sources.jar
+2021.01.18 08:55:43 INFO  [INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/2.0.0/checker-qual-2.0.0-sources.jar (1.6 MB at 3.5 MB/s)
+2021.01.18 08:55:43 INFO  [INFO] Downloading from central: https://repo.maven.apache.org/maven2/com/google/inject/extensions/guice-servlet/4.2.0/guice-servlet-4.2.0-sources.jar
+2021.01.18 08:55:43 INFO  [INFO] Downloaded from central: https://repo.maven.apache.org/maven2/com/google/inject/extensions/guice-servlet/4.2.0/guice-servlet-4.2.0-sources.jar (60 kB at 1.0 MB/s)
+2021.01.18 08:55:43 INFO  [INFO] Downloading from central: https://repo.maven.apache.org/maven2/com/google/guava/guava/25.1-jre/guava-25.1-jre-sources.jar
+2021.01.18 08:55:43 INFO  [INFO] Downloaded from central: https://repo.maven.apache.org/maven2/com/google/guava/guava/25.1-jre/guava-25.1-jre-sources.jar (1.6 MB at 3.5 MB/s)
+2021.01.18 08:55:43 INFO  [INFO] Downloading from central: https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-runtime/2.16/istack-commons-runtime-2.16-sources.jar
+2021.01.18 08:55:43 INFO  [INFO] Downloaded from central: https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-runtime/2.16/istack-commons-runtime-2.16-sources.jar (33 kB at 642 kB/s)
+2021.01.18 08:55:43 INFO  [INFO] Downloading from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.8.9/jackson-databind-2.8.9-sources.jar
+2021.01.18 08:55:44 INFO  [INFO] Downloaded from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.8.9/jackson-databind-2.8.9-sources.jar (930 kB at 2.1 MB/s)
+2021.01.18 08:55:44 INFO  [INFO] Downloading from central: https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.9/commons-codec-1.9-sources.jar
+2021.01.18 08:55:44 INFO  [INFO] Downloaded from central: https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.9/commons-codec-1.9-sources.jar (278 kB at 1.4 MB/s)
+2021.01.18 08:55:44 INFO  [INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/jboss/resteasy/resteasy-jaxb-provider/3.1.4.Final/resteasy-jaxb-provider-3.1.4.Final-sources.jar
+2021.01.18 08:55:44 INFO  [INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/jboss/resteasy/resteasy-jaxb-provider/3.1.4.Final/resteasy-jaxb-provider-3.1.4.Final-sources.jar (52 kB at 420 kB/s)
+2021.01.18 08:55:44 INFO  [INFO] Downloading from central: https://repo.maven.apache.org/maven2/javax/activation/activation/1.1.1/activation-1.1.1-sources.jar
+2021.01.18 08:55:44 INFO  [INFO] Downloaded from central: https://repo.maven.apache.org/maven2/javax/activation/activation/1.1.1/activation-1.1.1-sources.jar (76 kB at 1.1 MB/s)
+2021.01.18 08:55:44 INFO  [INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final-sources.jar
+2021.01.18 08:55:44 INFO  [INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final-sources.jar (53 kB at 948 kB/s)
+2021.01.18 08:55:44 INFO  [INFO] Downloading from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.8.9/jackson-core-2.8.9-sources.jar
+2021.01.18 08:55:44 INFO  [INFO] Downloaded from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.8.9/jackson-core-2.8.9-sources.jar (295 kB at 3.3 MB/s)
+2021.01.18 08:55:44 INFO  [INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2-sources.jar
+2021.01.18 08:55:44 INFO  [INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2-sources.jar (708 kB at 3.1 MB/s)
+2021.01.18 08:55:44 INFO  [INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/jboss/resteasy/resteasy-jackson2-provider/3.1.4.Final/resteasy-jackson2-provider-3.1.4.Final-sources.jar
+2021.01.18 08:55:44 INFO  [INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/jboss/resteasy/resteasy-jackson2-provider/3.1.4.Final/resteasy-jackson2-provider-3.1.4.Final-sources.jar (12 kB at 288 kB/s)
+2021.01.18 08:55:44 INFO  [INFO] Downloading from central: https://repo.maven.apache.org/maven2/javax/el/javax.el-api/3.0.0/javax.el-api-3.0.0-sources.jar
+2021.01.18 08:55:44 INFO  [INFO] Downloaded from central: https://repo.maven.apache.org/maven2/javax/el/javax.el-api/3.0.0/javax.el-api-3.0.0-sources.jar (123 kB at 2.1 MB/s)
+2021.01.18 08:55:45 INFO  [INFO] Downloading from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-json-provider/2.8.9/jackson-jaxrs-json-provider-2.8.9-sources.jar
+2021.01.18 08:55:45 INFO  [INFO] Downloaded from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-json-provider/2.8.9/jackson-jaxrs-json-provider-2.8.9-sources.jar (13 kB at 325 kB/s)
+2021.01.18 08:55:45 INFO  [INFO] Downloading from central: https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.2.7/jaxb-api-2.2.7-sources.jar
+2021.01.18 08:55:45 INFO  [INFO] Downloaded from central: https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.2.7/jaxb-api-2.2.7-sources.jar (245 kB at 1.9 MB/s)
+2021.01.18 08:55:45 INFO  [INFO] Downloading from central: https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-core/2.2.7/jaxb-core-2.2.7-sources.jar
+2021.01.18 08:55:45 INFO  [INFO] Downloaded from central: https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-core/2.2.7/jaxb-core-2.2.7-sources.jar (188 kB at 1.9 MB/s)
+2021.01.18 08:55:45 INFO  [INFO] 
+2021.01.18 08:55:45 INFO  [INFO] The following files have been resolved:
+2021.01.18 08:55:45 INFO  [INFO]    com.google.inject:guice:jar:sources:4.1.0:compile
+2021.01.18 08:55:45 INFO  [INFO]    org.jboss.spec.javax.annotation:jboss-annotations-api_1.2_spec:jar:sources:1.0.0.Final:compile
+2021.01.18 08:55:45 INFO  [INFO]    com.google.code.findbugs:jsr305:jar:sources:3.0.2:compile
+2021.01.18 08:55:45 INFO  [INFO]    com.sun.xml.fastinfoset:FastInfoset:jar:sources:1.2.12:compile
+2021.01.18 08:55:45 INFO  [INFO]    net.jcip:jcip-annotations:jar:sources:1.0:compile
+2021.01.18 08:55:45 INFO  [INFO]    org.jboss.resteasy:resteasy-jaxrs-services:jar:sources:3.1.4.Final:compile
+2021.01.18 08:55:45 INFO  [INFO]    org.apache.httpcomponents:httpcore:jar:sources:4.4.4:compile
+2021.01.18 08:55:45 INFO  [INFO]    com.sun.xml.bind:jaxb-impl:jar:sources:2.2.7:compile
+2021.01.18 08:55:45 INFO  [INFO]    commons-io:commons-io:jar:sources:2.5:compile
+2021.01.18 08:55:45 INFO  [INFO]    com.fasterxml.jackson.core:jackson-annotations:jar:sources:2.8.9:compile
+2021.01.18 08:55:45 INFO  [INFO]    com.fasterxml.jackson.jaxrs:jackson-jaxrs-base:jar:sources:2.8.9:compile
+2021.01.18 08:55:45 INFO  [INFO]    com.fasterxml.jackson.module:jackson-module-jaxb-annotations:jar:sources:2.8.9:compile
+2021.01.18 08:55:45 INFO  [INFO]    com.google.errorprone:error_prone_annotations:jar:sources:2.1.3:compile
+2021.01.18 08:55:45 INFO  [INFO]    org.jboss.resteasy:resteasy-client:jar:sources:3.1.4.Final:compile
+2021.01.18 08:55:45 INFO  [INFO]    org.checkerframework:checker-qual:jar:sources:2.0.0:compile
+2021.01.18 08:55:45 INFO  [INFO]    com.google.inject.extensions:guice-servlet:jar:sources:4.2.0:compile
+2021.01.18 08:55:45 INFO  [INFO]    org.jboss.resteasy:resteasy-guice:jar:sources:3.1.4.Final:compile
+2021.01.18 08:55:45 INFO  [INFO]    com.google.guava:guava:jar:sources:25.1-jre:compile
+2021.01.18 08:55:45 INFO  [INFO]    org.codehaus.mojo:animal-sniffer-annotations:jar:sources:1.14:compile
+2021.01.18 08:55:45 INFO  [INFO]    com.sun.istack:istack-commons-runtime:jar:sources:2.16:compile
+2021.01.18 08:55:45 INFO  [INFO]    com.fasterxml.jackson.core:jackson-databind:jar:sources:2.8.9:compile
+2021.01.18 08:55:45 INFO  [INFO]    junit:junit:jar:sources:3.8.1:test
+2021.01.18 08:55:45 INFO  [INFO]    commons-codec:commons-codec:jar:sources:1.9:compile
+2021.01.18 08:55:45 INFO  [INFO]    org.jboss.resteasy:resteasy-jaxb-provider:jar:sources:3.1.4.Final:compile
+2021.01.18 08:55:45 INFO  [INFO]    javax.servlet:javax.servlet-api:jar:sources:3.1.0:provided
+2021.01.18 08:55:45 INFO  [INFO]    javax.activation:activation:jar:sources:1.1.1:compile
+2021.01.18 08:55:45 INFO  [INFO]    org.jboss.logging:jboss-logging:jar:sources:3.3.0.Final:compile
+2021.01.18 08:55:45 INFO  [INFO]    com.fasterxml.jackson.core:jackson-core:jar:sources:2.8.9:compile
+2021.01.18 08:55:45 INFO  [INFO]    org.apache.httpcomponents:httpclient:jar:sources:4.5.2:compile
+2021.01.18 08:55:45 INFO  [INFO]    javax.inject:javax.inject:jar:sources:1:compile
+2021.01.18 08:55:45 INFO  [INFO]    org.jboss.resteasy:resteasy-jaxrs:jar:sources:3.1.4.Final:compile
+2021.01.18 08:55:45 INFO  [INFO]    org.jboss.spec.javax.ws.rs:jboss-jaxrs-api_2.0_spec:jar:sources:1.0.1.Beta1:compile
+2021.01.18 08:55:45 INFO  [INFO]    org.jboss.resteasy:resteasy-jackson2-provider:jar:sources:3.1.4.Final:compile
+2021.01.18 08:55:45 INFO  [INFO]    javax.el:javax.el-api:jar:sources:3.0.0:test
+2021.01.18 08:55:45 INFO  [INFO]    aopalliance:aopalliance:jar:sources:1.0:compile
+2021.01.18 08:55:45 INFO  [INFO]    com.google.j2objc:j2objc-annotations:jar:sources:1.1:compile
+2021.01.18 08:55:45 INFO  [INFO]    com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:jar:sources:2.8.9:compile
+2021.01.18 08:55:45 INFO  [INFO]    javax.xml.bind:jaxb-api:jar:sources:2.2.7:compile
+2021.01.18 08:55:45 INFO  [INFO]    commons-logging:commons-logging:jar:sources:1.2:compile
+2021.01.18 08:55:45 INFO  [INFO]    com.sun.xml.bind:jaxb-core:jar:sources:2.2.7:compile
+2021.01.18 08:55:45 INFO  [INFO] 
+2021.01.18 08:55:45 INFO  [INFO] The following files have NOT been resolved:
+2021.01.18 08:55:45 INFO  [INFO]    javax.xml.bind:jsr173_api:jar:sources:1.0:compile
+2021.01.18 08:55:45 INFO  [INFO]    com.google.code.findbugs:annotations:jar:sources:2.0.1:compile
+2021.01.18 08:55:45 INFO  [INFO] 
+2021.01.18 08:55:45 INFO  [INFO] ------------------------------------------------------------------------
+2021.01.18 08:55:45 INFO  [INFO] BUILD SUCCESS
+2021.01.18 08:55:45 INFO  [INFO] ------------------------------------------------------------------------
+2021.01.18 08:55:45 INFO  [INFO] Total time: 17.448 s
+2021.01.18 08:55:45 INFO  [INFO] Finished at: 2021-01-18T08:55:45-05:00
+2021.01.18 08:55:45 INFO  [INFO] ------------------------------------------------------------------------
+2021.01.18 08:55:46 INFO  [WARNING] you don't define org.scala-lang:scala-library as a dependency of the project
+2021.01.18 08:55:46 INFO  [INFO] Generated .bloop\ARestSQLProject.json
+2021.01.18 08:55:48 INFO  [INFO] Scanning for projects...
+2021.01.18 08:55:48 INFO  [WARNING] 
+2021.01.18 08:55:48 INFO  [WARNING] Some problems were encountered while building the effective model for com.bottomfeedersoftware:ARestSQLProject:war:1.0-SNAPSHOT
+2021.01.18 08:55:48 INFO  [WARNING] 'dependencies.dependency.(groupId:artifactId:type:classifier)' must be unique: org.jboss.resteasy:resteasy-guice:jar -> duplicate declaration of version ${resteasy.version} @ line 54, column 17
+2021.01.18 08:55:48 INFO  [WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-war-plugin is missing. @ line 123, column 15
+2021.01.18 08:55:48 INFO  [WARNING] 
+2021.01.18 08:55:48 INFO  [WARNING] It is highly recommended to fix these problems because they threaten the stability of your build.
+2021.01.18 08:55:48 INFO  [WARNING] 
+2021.01.18 08:55:48 INFO  [WARNING] For this reason, future Maven versions might no longer support building such malformed projects.
+2021.01.18 08:55:48 INFO  [WARNING] 
+2021.01.18 08:55:48 INFO  [INFO] 
+2021.01.18 08:55:48 INFO  [INFO] --------------< com.bottomfeedersoftware:ARestSQLProject >--------------
+2021.01.18 08:55:48 INFO  [INFO] Building ARestSQLProject Maven Webapp 1.0-SNAPSHOT
+2021.01.18 08:55:48 INFO  [INFO] --------------------------------[ war ]---------------------------------
+2021.01.18 08:55:48 INFO  [INFO] 
+2021.01.18 08:55:48 INFO  [INFO] --- maven-dependency-plugin:2.8:sources (default-cli) @ ARestSQLProject ---
+2021.01.18 08:55:49 INFO  [INFO] 
+2021.01.18 08:55:49 INFO  [INFO] The following files have been resolved:
+2021.01.18 08:55:49 INFO  [INFO]    com.google.inject:guice:jar:sources:4.1.0:compile
+2021.01.18 08:55:49 INFO  [INFO]    org.jboss.spec.javax.annotation:jboss-annotations-api_1.2_spec:jar:sources:1.0.0.Final:compile
+2021.01.18 08:55:49 INFO  [INFO]    com.google.code.findbugs:jsr305:jar:sources:3.0.2:compile
+2021.01.18 08:55:49 INFO  [INFO]    com.sun.xml.fastinfoset:FastInfoset:jar:sources:1.2.12:compile
+2021.01.18 08:55:49 INFO  [INFO]    net.jcip:jcip-annotations:jar:sources:1.0:compile
+2021.01.18 08:55:49 INFO  [INFO]    org.jboss.resteasy:resteasy-jaxrs-services:jar:sources:3.1.4.Final:compile
+2021.01.18 08:55:49 INFO  [INFO]    org.apache.httpcomponents:httpcore:jar:sources:4.4.4:compile
+2021.01.18 08:55:49 INFO  [INFO]    com.sun.xml.bind:jaxb-impl:jar:sources:2.2.7:compile
+2021.01.18 08:55:49 INFO  [INFO]    commons-io:commons-io:jar:sources:2.5:compile
+2021.01.18 08:55:49 INFO  [INFO]    com.fasterxml.jackson.core:jackson-annotations:jar:sources:2.8.9:compile
+2021.01.18 08:55:49 INFO  [INFO]    com.fasterxml.jackson.jaxrs:jackson-jaxrs-base:jar:sources:2.8.9:compile
+2021.01.18 08:55:49 INFO  [INFO]    com.fasterxml.jackson.module:jackson-module-jaxb-annotations:jar:sources:2.8.9:compile
+2021.01.18 08:55:49 INFO  [INFO]    com.google.errorprone:error_prone_annotations:jar:sources:2.1.3:compile
+2021.01.18 08:55:49 INFO  [INFO]    org.jboss.resteasy:resteasy-client:jar:sources:3.1.4.Final:compile
+2021.01.18 08:55:49 INFO  [INFO]    org.checkerframework:checker-qual:jar:sources:2.0.0:compile
+2021.01.18 08:55:49 INFO  [INFO]    com.google.inject.extensions:guice-servlet:jar:sources:4.2.0:compile
+2021.01.18 08:55:49 INFO  [INFO]    org.jboss.resteasy:resteasy-guice:jar:sources:3.1.4.Final:compile
+2021.01.18 08:55:49 INFO  [INFO]    com.google.guava:guava:jar:sources:25.1-jre:compile
+2021.01.18 08:55:49 INFO  [INFO]    org.codehaus.mojo:animal-sniffer-annotations:jar:sources:1.14:compile
+2021.01.18 08:55:49 INFO  [INFO]    com.sun.istack:istack-commons-runtime:jar:sources:2.16:compile
+2021.01.18 08:55:49 INFO  [INFO]    com.fasterxml.jackson.core:jackson-databind:jar:sources:2.8.9:compile
+2021.01.18 08:55:49 INFO  [INFO]    junit:junit:jar:sources:3.8.1:test
+2021.01.18 08:55:49 INFO  [INFO]    commons-codec:commons-codec:jar:sources:1.9:compile
+2021.01.18 08:55:49 INFO  [INFO]    org.jboss.resteasy:resteasy-jaxb-provider:jar:sources:3.1.4.Final:compile
+2021.01.18 08:55:49 INFO  [INFO]    javax.servlet:javax.servlet-api:jar:sources:3.1.0:provided
+2021.01.18 08:55:49 INFO  [INFO]    javax.activation:activation:jar:sources:1.1.1:compile
+2021.01.18 08:55:49 INFO  [INFO]    org.jboss.logging:jboss-logging:jar:sources:3.3.0.Final:compile
+2021.01.18 08:55:49 INFO  [INFO]    com.fasterxml.jackson.core:jackson-core:jar:sources:2.8.9:compile
+2021.01.18 08:55:49 INFO  [INFO]    org.apache.httpcomponents:httpclient:jar:sources:4.5.2:compile
+2021.01.18 08:55:49 INFO  [INFO]    javax.inject:javax.inject:jar:sources:1:compile
+2021.01.18 08:55:49 INFO  [INFO]    org.jboss.resteasy:resteasy-jaxrs:jar:sources:3.1.4.Final:compile
+2021.01.18 08:55:49 INFO  [INFO]    org.jboss.spec.javax.ws.rs:jboss-jaxrs-api_2.0_spec:jar:sources:1.0.1.Beta1:compile
+2021.01.18 08:55:49 INFO  [INFO]    org.jboss.resteasy:resteasy-jackson2-provider:jar:sources:3.1.4.Final:compile
+2021.01.18 08:55:49 INFO  [INFO]    javax.el:javax.el-api:jar:sources:3.0.0:test
+2021.01.18 08:55:49 INFO  [INFO]    aopalliance:aopalliance:jar:sources:1.0:compile
+2021.01.18 08:55:49 INFO  [INFO]    com.google.j2objc:j2objc-annotations:jar:sources:1.1:compile
+2021.01.18 08:55:49 INFO  [INFO]    com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:jar:sources:2.8.9:compile
+2021.01.18 08:55:49 INFO  [INFO]    javax.xml.bind:jaxb-api:jar:sources:2.2.7:compile
+2021.01.18 08:55:49 INFO  [INFO]    commons-logging:commons-logging:jar:sources:1.2:compile
+2021.01.18 08:55:49 INFO  [INFO]    com.sun.xml.bind:jaxb-core:jar:sources:2.2.7:compile
+2021.01.18 08:55:49 INFO  [INFO] 
+2021.01.18 08:55:49 INFO  [INFO] The following files have NOT been resolved:
+2021.01.18 08:55:49 INFO  [INFO]    javax.xml.bind:jsr173_api:jar:sources:1.0:compile
+2021.01.18 08:55:49 INFO  [INFO]    com.google.code.findbugs:annotations:jar:sources:2.0.1:compile
+2021.01.18 08:55:49 INFO  [INFO] 
+2021.01.18 08:55:49 INFO  [INFO] ------------------------------------------------------------------------
+2021.01.18 08:55:49 INFO  [INFO] BUILD SUCCESS
+2021.01.18 08:55:49 INFO  [INFO] ------------------------------------------------------------------------
+2021.01.18 08:55:49 INFO  [INFO] Total time: 1.422 s
+2021.01.18 08:55:49 INFO  [INFO] Finished at: 2021-01-18T08:55:49-05:00
+2021.01.18 08:55:49 INFO  [INFO] ------------------------------------------------------------------------
+2021.01.18 08:55:49 INFO  [INFO] Generated .bloop\ARestSQLProject-test.json
+2021.01.18 08:55:49 INFO  [INFO] ------------------------------------------------------------------------
+2021.01.18 08:55:49 INFO  [INFO] BUILD SUCCESS
+2021.01.18 08:55:49 INFO  [INFO] ------------------------------------------------------------------------
+2021.01.18 08:55:49 INFO  [INFO] Total time: 34.817 s
+2021.01.18 08:55:49 INFO  [INFO] Finished at: 2021-01-18T08:55:49-05:00
+2021.01.18 08:55:49 INFO  [INFO] ------------------------------------------------------------------------
+2021.01.18 08:55:49 INFO  mvn bloopInstall exit: 0
+2021.01.18 08:55:49 INFO  time: ran 'mvn bloopInstall' in 43s
+2021.01.18 08:55:49 INFO  Attempting to connect to the build server...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 37003'...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+No server running at 127.0.0.1:8212, let's fire one...
+Resolving ch.epfl.scala:bloop-frontend_2.12:1.4.6-15-209c2a5c...
+Starting bloop server at 127.0.0.1:8212...
+Attempting a connection to the server...
+[0m[32m[D][0m Loading 2 projects from 'c:\Users\Micha\Development\ARestSQLProject\.bloop'...
+[0m[32m[D][0m Loading project from 'c:\Users\Micha\Development\ARestSQLProject\.bloop\ARestSQLProject-test.json'
+[0m[32m[D][0m Loading project from 'c:\Users\Micha\Development\ARestSQLProject\.bloop\ARestSQLProject.json'
+[0m[32m[D][0m Missing analysis file for project 'ARestSQLProject'
+[0m[32m[D][0m Missing analysis file for project 'ARestSQLProject-test'
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:37003...
+The server is listening for incoming connections at tcp://127.0.0.1:37003...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2021.01.18 08:56:17 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Micha\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2021.01.18 08:56:17 INFO  time: connected to build server in 27s
+2021.01.18 08:56:17 INFO  Connected to Build server v1.4.6-15-209c2a5c
+2021.01.18 08:56:33 INFO  time: indexed workspace in 15s
+Jan 18, 2021 9:01:48 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
