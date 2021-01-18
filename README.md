@@ -7,3 +7,5 @@ https://www.javaguides.net/2019/02/webservlet-annotation-example.html
 https://www.codejava.net/servers/tomcat/how-to-embed-tomcat-server-into-java-web-applications
 
 https://howtodoinjava.com/resteasy/resteasy-tomcat-hello-world-application/
+
+mvn clean tomcat7:run-war
