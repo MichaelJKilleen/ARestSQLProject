@@ -3,22 +3,22 @@
 <web-app>
   <display-name>Guice Hello</display-name>
 
-  <listener>
+  <!-- <listener>
     <listener-class>
       com.bottomfeedersoftware.web.MyServletContextListener
       </listener-class>
-  </listener>
+  </listener> -->
 
-  <servlet>
+  <!-- <servlet>
     <servlet-name>Resteasy</servlet-name>
     <servlet-class>
           org.jboss.resteasy.plugins.server.servlet.HttpServletDispatcher
       </servlet-class>
-  </servlet>
+  </servlet> -->
 
-  <servlet-mapping>
+  <!-- <servlet-mapping>
     <servlet-name>Resteasy</servlet-name>
     <url-pattern>/*</url-pattern>
-  </servlet-mapping>
+  </servlet-mapping> -->
 
 </web-app>

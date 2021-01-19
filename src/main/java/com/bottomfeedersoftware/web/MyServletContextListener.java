@@ -8,12 +8,14 @@ package com.bottomfeedersoftware.web;
 import com.google.inject.Module;
 import java.util.List;
 import javax.servlet.ServletContext;
+import javax.servlet.annotation.WebListener;
 import org.jboss.resteasy.plugins.guice.GuiceResteasyBootstrapServletContextListener;
 
 /**
  *
  * @author dherik
  */
+@WebListener
 public class MyServletContextListener extends GuiceResteasyBootstrapServletContextListener  {
 
     @Override
